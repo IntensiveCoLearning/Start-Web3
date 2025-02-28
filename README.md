@@ -117,11 +117,11 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 ## 共学激励
 
 100LXPU，由完成本次残酷共学的小伙伴平分；
-共居福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
+共居福利：https://lxdao.notion.site/from-3eab258b4df44c9cb97319452b2be13b
 
 ## 报名和打卡规则
 
-因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://www.notion.so/lxdao/GitHub-bd65b981146947fea1fb675942567a45)
+因为残酷共学的报名和打卡是基于 GitHub 进行开展的，如果你是非开发者或者对 git 操作不熟悉，请先阅读此文档：[残酷共学 GitHub 新手教程](https://lxdao.notion.site/GitHub-bd65b981146947fea1fb675942567a45)
 
 - 报名:
 
