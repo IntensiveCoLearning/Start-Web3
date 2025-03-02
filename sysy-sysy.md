@@ -5,11 +5,11 @@ timezone: UTC+8
 > 请在上边的 timezone 添加你的当地时区(UTC)，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
 
 
-# tangcupaiguxiang
+# 你的名字
 
-1. 小白
-2. 会
-3. @tangcupaiguxiang
+1. 我是一个艺术家和品牌人，希望通过学习了解web3来为自己行业的未来变革做好准备。
+2. 我会努力去完成。
+3. Telegram - Sysy Sysy (13524447764)
 
 ## Notes
 
