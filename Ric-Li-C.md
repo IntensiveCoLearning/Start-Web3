@@ -6,7 +6,7 @@ timezone: Asia/Shanghai
 
 1. 自我介绍
 
-Ric Li C, 家庭主夫，天天在家带 2 个女儿，自学了 Solidity，NextJS，TypeScript，前一段时间在 BSC 链上，发行了个人的慈善性质的 NFT 项目：MAS Awareness (http://mas-awareness.top)。
+Ric Li C, 家庭主夫，天天在家带 2 个女儿。自学了 Solidity，NextJS，TypeScript，前一段时间在 BSC 链上，发行了个人的慈善性质的 NFT 项目：<a href="https://mas-awareness.top" target="_blank">MAS Awareness</a>。
 
 2. 你认为你会完成本次残酷学习吗？
 
@@ -14,7 +14,7 @@ Yes 75%
 
 3. 你的联系方式（推荐 Telegram）
 
-https://t.me/ric_li_c
+Telegram 短消息 <a href="https://t.me/ric_li_c" target="_blank">Ric Li C</a>
 
 ## Notes
 
@@ -22,50 +22,123 @@ https://t.me/ric_li_c
 
 ### 2025.03.03
 
-Add source codes for 24.Create and its tests
+-   Web 1：数据只读；
+-   Web 2：数据读写；
+-   Web 3：数据去中心化；用户拥有自己的数据，交易受到加密技术保障。
+
+### _个人感想_：
+
+用户真的拥有自己的数据么？其实这只是宣传口号而已。
+
+-   首先，交互记录肯定不是用户拥有的。Web 3 所有交互动作都在链上，所有人都一览无余，根本不存在谁“拥有”的概念，非要说，那也是所有人都可以拥有。
+    没有隐私的交互记录，谈何拥有？
+-   其次，数据本身，勉强还可以说用户拥有，但这里有一个非常重要的点，一个没有价值的东西，根本没有被拥有的意义。
+    打个比方，你拥有全世界最大的头皮屑，so what，who cares。拥有一个没有价值的东西，只不过是无意义的自嗨。
+-   最后，受到加密技术保障，就更值得争议了，至少从现在的加密现状来看，还不如中心化的交易更有保障。
 
 ### 2025.03.04
 
-Add source codes for 25.Create2 and its tests
+数字资产：存在于数字形式的资产。
+
+数字资产的优点：稀缺性，去中心化，安全性
+
+数字资产的种类：加密货币，NFT，数字证券，其他如数字收藏品、虚拟商品和数字身份。
+
+数字资产的风险
+
+### _个人感想_：
+
+数字资产的优点：
+其实这些都是宣传语，数字资产未必稀缺；去中心化也并非它的特性；就更谈不上安全性了。
+
+数字资产的种类：
+游戏中的人物或道具，也是一个很大的数字资产的种类。
 
 ### 2025.03.05
 
-Add source codes for 13.Inheritance and its tests
+加密货币
+
+-   Meme 币
+-   公链原生代币
+-   项目代币
+-   稳定币
+
+### _个人感想_：
+
+如果把 Web 3 看成一个大赌场，每一个 Meme 币就是赌场里面的一个赌桌。如果说公链代币和项目代币好歹有那么一点点价值，Meme 币则是彻头彻尾的无价值。但这并不妨碍某些 Meme 币的市值超过绝大多数公链代币和项目代币，为什么呢？因为 BTC 就是最大的 Meme 币。
 
 ### 2025.03.06
 
-Add source codes for 27.ABIEncode and its tests
+私钥与助记词
 
 ### 2025.03.07
 
-Add source codes for 30.TryCatch and its tests
+钱包
 
 ### 2025.03.08
 
-Add source codes for 22.Call and its tests
+Web 3 行业术语
 
 ### 2025.03.09
 
-Add source codes for 24.Create and its tests
+扩展
 
 ### 2025.03.10
 
-Add source codes for 25.Create2 and its tests
+区块链技术
 
 ### 2025.03.11
 
-Add source codes for 13.Inheritance and its tests
+Layer 1
 
 ### 2025.03.12
 
-Add source codes for 27.ABIEncode and its tests
+Layer 2
 
 ### 2025.03.13
 
-Add source codes for 30.TryCatch and its tests
+跨链
 
 ### 2025.03.14
 
-Add source codes for 22.Call and its tests
+比特币
+
+### 2025.03.15
+
+以太坊
+
+### 2025.03.16
+
+密码学技术
+
+### 2025.03.17
+
+DAO
+
+### 2025.03.18
+
+NFT
+
+### 2025.03.19
+
+DeFi
+
+### 2025.03.20
+
+Web 3 生态
+黑暗森林手册
+
+### 2025.03.21
+
+GameFi
+
+### 2025.03.22
+
+DeSci
+
+### 2025.03.23
+
+memecoin
+铭文
 
 <!-- Content_END -->
