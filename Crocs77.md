@@ -31,6 +31,6 @@ timezone: UTC+8
 以太坊是一个全球的计算机网络，遵循一套称为以太坊协议的规则。这个网络为社区、应用程序、组织和数字资产提供了基础。
 以太坊白皮书：https://ethereum.org/en/whitepaper/#ethereum-whitepaper
 ### 2025.03.07
-略
+略 准备看比特币白皮书，发现很难理解，遂作罢
 
 <!-- Content_END -->
