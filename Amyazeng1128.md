@@ -203,6 +203,37 @@ A：首先，理论上来说，如果一个数字货币的白皮书 明确声明
 一些 “空气币” 或 “山寨币” 的可能情况： 在加密货币领域， 确实存在一些发行量巨大， 甚至号称 “无上限” 的小型项目或者 “空气币”。 但这些项目往往缺乏实际的应用场景、技术创新和社区支持， 其目的是为了短期炒作或圈钱， 很难长期存活， 更谈不上成功。 它们的 “无上限” 更像是为了营销噱头， 而不是一种可持续的经济模型。
 
 
+### 2025.03.05
+“追求安全性和可扩展性（即性能），往往采用少数超级节点进行通讯，超级节点拥有更强的性能和更好的网络环境，彼此之间能实现超高速的通讯。但参与门槛过高，牺牲了去中心化程度”
+注释：使用数量更少的超级节点通讯”之所以能改善性能，主要原因在于：减少超级节点的数量，可以显著降低网络中的通讯开销，从而提高交易处理速度和整体性能。网络拓扑结构也相应简化，这有助于降低网络的复杂性，提高网络的稳定性和可靠性。节点数量减少，信息传递路径也相应减少，这有助于降低延迟。但节点数量越少，网络的中心化程度越高，这会增加网络受到攻击和审查的风险，过少的超级节点会使网络更容易受到恶意行为者的控制。
+
+
+主流Layer2方案：<img width="531" alt="image" src="https://github.com/user-attachments/assets/793becfa-1245-445e-96fb-3d28bc19131f" />Arbitrum One, zkSync Lite, Polygon zkEVM, Optimism, 和 StarkNet
+
+
+### 2025.03.06
+今日学习Defi,了解到Zapper，正在探索中……
+
+### 2025.03.07
+同质化代币（FT，全称 Fungible Token）是可以被任意交换的代币，就像钱一样。
+非同质化代币（NFT，全称 Non-fungible Token）则是独一无二、完全不同，难以用来平等交换的代币。
+·独一无二，不可分割
+·不可篡改，公开透明（基于区块链技术）
+·万物皆可 NFT
+·完全控制权
+·确权成本低
+·无限想象空间
+
+ DYOR：Do your own research，意思是你要自己做研究来决定是否购买，是一个免责声明。
+why buy？——·invest？/culture？/collect？
+You need to know as much as you can about this project.——sneak-peaks/background&members/future planning and implementation/your friends‘views
+Price——this project‘s value？/How much are you willing to pay ?
+
+
+FOMO，全称 Fear of missing out，意思是害怕失去机会。在这种情绪下，往往会高价接盘，容易被套牢。
+FUD，全称 Fear, uncertainty, and doubt，意思是害怕猜疑不确定。在这种情绪下，往往会低价出货，容易卖飞了。
+
+NFT这节课很有意思，赞！
 
 
 ### 2025.07.12
