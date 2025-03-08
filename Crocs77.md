@@ -32,5 +32,6 @@ timezone: UTC+8
 以太坊白皮书：https://ethereum.org/en/whitepaper/#ethereum-whitepaper
 ### 2025.03.07
 略 打算看白皮书，没看懂，遂作罢
-
+### 2025.03.08
+看seedao文章，谭嗣同、Web3 与协议之仁
 <!-- Content_END -->
