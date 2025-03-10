@@ -38,4 +38,9 @@ Layer1 / Layer2
 P2P network
 Previous hash, Mekle treeroot
 
+### 2025.03.10
+Meme coins are basically gambling...
+
+
+
 <!-- Content_END -->
