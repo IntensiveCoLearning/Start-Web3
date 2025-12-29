@@ -1350,6 +1350,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
@@ -1359,5 +1360,5 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 - 全勤用户: Amyazeng1128, jjeejj, yyhatb, NULL707, hub3r3, Ric-Li-C, Winkler77, huxlife, Zisaac52, abelking, Azhan1431, linyuanye3, 007Windy, leticiawu-web3, felix-Hex, rowena78778
 - 淘汰人数: 37
 - 淘汰率: 51.39%
-- Fork人数: 90
+- Fork人数: 89
 <!-- STATISTICALDATA_END -->
