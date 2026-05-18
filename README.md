@@ -173,7 +173,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [AlengYou](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/AlengYou.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | |
 | [tangcupaiguxiang](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/tangcupaiguxiang.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | |
 | [hub3r3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/hub3r3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [Crocs77](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Crocs77.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
+| [Crocs77](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Crocs77.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [Ric-Li-C](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Ric-Li-C.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [LiuWillows](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/LiuWillows.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ❌ | | | | | | | |
 | [ixiejun](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ixiejun.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |
@@ -183,7 +183,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [SixLi666](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/SixLi666.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [marvelshan](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/marvelshan.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | |
 | [huxlife](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/huxlife.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [Su-u-un](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Su-u-un.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Su-u-un](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Su-u-un.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ |   | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [PI-33](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/PI-33.md) | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | | | | | | | | | | | | | | | |
 | [BaseAI998](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/BaseAI998.md) | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | |
 | [Zisaac52](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Zisaac52.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -204,16 +204,16 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [felix-Hex](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/felix-Hex.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Slienfore](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Slienfore.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [sysy-sysy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/sysy-sysy.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [joycexingji-web3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/joycexingji-web3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ |
+| [joycexingji-web3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/joycexingji-web3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ❌ | |
 | [Pearl1978](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Pearl1978.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ |
 | [AdamLeeeee](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/AdamLeeeee.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | |
-| [StarryDeserts](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/StarryDeserts.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ |   | ⭕️ | ⭕️ | ❌ | | | |
+| [StarryDeserts](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/StarryDeserts.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ |   | ⭕️ | ❌ | | | |
 | [YunaQuinn](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/YunaQuinn.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [mangossyang](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/mangossyang.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ |
 | [yuansixiii](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/yuansixiii.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | |
 | [hboolean](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/hboolean.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | |
-| [Nazca532](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Nazca532.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ |   | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ |
-| [ricarduuu](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ricarduuu.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ |   | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
+| [Nazca532](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Nazca532.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ❌ | |
+| [ricarduuu](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ricarduuu.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [rowena78778](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/rowena78778.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/pillowtalk-Qy.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Moizwmoi](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Moizwmoi.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | |
@@ -1490,14 +1490,15 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
 - 总参与人数: 72
-- 完成人数: 36
-- 完成用户: ztm0929, Amyazeng1128, JacksonStack, jjeejj, yyhatb, Cynthia4EVA, Rae-jia, NULL707, wuyi5111, amengnew, yihaowang, Ghw2066, hub3r3, Crocs77, Ric-Li-C, ixiejun, debugzhao, asanqi2010, Winkler77, SixLi666, huxlife, Su-u-un, Zisaac52, abelking, Azhan1431, linyuanye3, iwnebin, 007Windy, leticiawu-web3, lupin36079, felix-Hex, Pearl1978, mangossyang, Nazca532, ricarduuu, rowena78778
+- 完成人数: 35
+- 完成用户: ztm0929, Amyazeng1128, JacksonStack, jjeejj, yyhatb, Cynthia4EVA, Rae-jia, NULL707, wuyi5111, amengnew, yihaowang, Ghw2066, hub3r3, Crocs77, Ric-Li-C, ixiejun, debugzhao, asanqi2010, Winkler77, SixLi666, huxlife, Su-u-un, Zisaac52, abelking, Azhan1431, linyuanye3, iwnebin, 007Windy, leticiawu-web3, lupin36079, felix-Hex, Pearl1978, mangossyang, ricarduuu, rowena78778
 - 全勤用户: Amyazeng1128, jjeejj, yyhatb, NULL707, hub3r3, Ric-Li-C, Winkler77, huxlife, Zisaac52, abelking, Azhan1431, linyuanye3, 007Windy, leticiawu-web3, felix-Hex, rowena78778
-- 淘汰人数: 36
-- 淘汰率: 50.00%
+- 淘汰人数: 37
+- 淘汰率: 51.39%
 - Fork人数: 89
 <!-- STATISTICALDATA_END -->
