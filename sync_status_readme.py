@@ -311,7 +311,7 @@ def get_fork_count():
         return None
     api_url = f"https://api.github.com/repos/{owner}/{repo}"
     try:
-        response = requests.get(api_url)
+        response = requests.get(api_url, timeout=10.0)
         response.raise_for_status()
         repo_data = response.json()
         return repo_data['forks_count']
